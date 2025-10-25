@@ -1,4 +1,6 @@
-title: Your Site Name
+title: Madison United Soccer Association
 description: A brief description
-theme: jekyll-theme-minimal  # or another GitHub-supported theme
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
